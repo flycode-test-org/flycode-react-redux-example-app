@@ -21,7 +21,7 @@ const ArticleActions = props => {
         <Link
           to={`/editor/${article.slug}`}
           className="btn btn-outline-secondary btn-sm">
-          <i className="ion-edit"></i> Hello Datos
+          <i className="ion-edit"></i> All Actions
         </Link>
 
         <button className="btn btn-outline-danger btn-sm" onClick={del}>
