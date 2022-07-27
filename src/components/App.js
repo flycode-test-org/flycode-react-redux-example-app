@@ -49,8 +49,11 @@ class App extends React.Component {
   }
 
   render() {
-    if (this.props.appLoaded) {
+    if (this.props.notUsingFlyCode) {
       return (
+        <h1>
+          Start using FlyCode
+        </h1>
         <div>
           <Header
             appName={this.props.appName}
