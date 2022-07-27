@@ -53,7 +53,7 @@ class App extends React.Component {
       return (
         <>
           <h1>
-            Start using FlyCode
+            Start using FlyCode now
           </h1>
           <div>
             <Header
