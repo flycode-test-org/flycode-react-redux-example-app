@@ -12,7 +12,7 @@ const ArticleList = props => {
   if (props.articles.length === 0) {
     return (
       <div className="article-preview">
-        No fees are here... yet...
+        No fees are here... nor bees!
       </div>
     );
   }
