@@ -53,7 +53,7 @@ class App extends React.Component {
       return (
         <>
           <h1>
-            Start using FlyCode now!entionBee!
+            Start using FlyCode now! :)entionBee!
           </h1>
           <div>
             <Header
